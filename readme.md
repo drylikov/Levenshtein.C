@@ -94,5 +94,4 @@ main() {
 
 [js]: https://github.com/words/levenshtein-edit-distance
 
-[mit]: license
 [clib]: https://github.com/clibs/clib
