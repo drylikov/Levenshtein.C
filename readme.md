@@ -39,6 +39,7 @@ Or clone the repo.
 ## Usage
 
 
+
 ### `size_t levenshtein(const char *a, const char *b);`
 
 ```c
