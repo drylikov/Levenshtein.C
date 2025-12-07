@@ -1,0 +1,19 @@
+
+{
+  "name": "levenshtein.c",
+  "version": "2.0.2",
+  "description": "Levenshtein algorithm",
+  "license": "MIT",
+  "keywords": [
+    "Vladimir",
+    "Levenshtein",
+    "algorithm",
+    "edit",
+    "distance"
+  ],
+  "repo": "drylikov/levenshtein.c",
+  "src": [
+    "levenshtein.h",
+    "levenshtein.c"
+  ]
+}
