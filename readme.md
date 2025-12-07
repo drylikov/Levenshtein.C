@@ -9,7 +9,7 @@
 
 
 
-[![Build][build-badge]][build]
+
 [![Coverage][coverage-badge]][coverage]
 
 Vladimir Levenshtein’s edit distance algorithm<sup>[1][wiki]</sup> as a C library. There’s also a CLI: [levenshtein(1)][cli], and a [JavaScript version][js].
