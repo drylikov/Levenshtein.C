@@ -6,6 +6,7 @@
 # Levenshtein(3)
 
 
+
 [![Build][build-badge]][build]
 [![Coverage][coverage-badge]][coverage]
 
