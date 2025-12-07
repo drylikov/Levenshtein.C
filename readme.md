@@ -96,6 +96,6 @@ main() {
 
 [mit]: license
 
-[author]: https://drylikov.com
+
 
 [clib]: https://github.com/clibs/clib
